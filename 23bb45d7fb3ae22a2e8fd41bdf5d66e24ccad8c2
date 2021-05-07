@@ -1,0 +1,1 @@
+{"jobID":"2da5bb1a-2673-ce55-eb09-6c62de6e7b37","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"lasample:deployment/nginx-deployment":{"add":{"automated":"true"},"remove":{}}}},"result":null}
